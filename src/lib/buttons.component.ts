@@ -5,6 +5,7 @@ import { Buttons }                                from './buttons';
 @Component({
 
     selector: 'buttons',
+    encapsulation: ViewE
     template: `
 
         <div class="wrapper">
